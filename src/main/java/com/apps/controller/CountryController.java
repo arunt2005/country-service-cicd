@@ -16,7 +16,8 @@ public class CountryController {
             new Country("UK", "London"),
             new Country("France", "Paris"),
             new Country("Japan", "Tokyo"),
-            new Country("Germany", "Berlin")
+            new Country("Germany", "Berlin"),
+            new Country("Australia", "Sydney")
     );
 
     @GetMapping
